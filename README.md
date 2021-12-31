@@ -1,6 +1,6 @@
 # Code and data for *ESG Mispricing: A View from the Overnight Return*
 
-- Xiaoqun Liu (School of Economics, Hainan University), - Changrong Yang (School of Economics, Hainan University,), and - Youcong Chao (School of Liberal Arts and Sciences, North China Institute of Aerospace Engineering,)
+`Xiaoqun Liu` (School of Economics, Hainan University), `Changrong Yang` (School of Economics, Hainan University,), and `Youcong Chao` (School of Liberal Arts and Sciences, North China Institute of Aerospace Engineering,)
 
 The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
 
