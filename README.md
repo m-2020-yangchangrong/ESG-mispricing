@@ -1,6 +1,6 @@
 # Code and data for *ESG Mispricing: A View from the Overnight Return*
 
-[Xiaoqun Liu](https://) (Hainan University), [Changrong Yang](https://) (Hainan University), and [Youcong Chao](https://) (North China Institute of Aerospace Engineering)
+[Xiaoqun Liu](https://github.com/LiuFinance) (Hainan University), [Changrong Yang](https://github.com/m-2020-yangchangrong) (Hainan University), and [Youcong Chao](https://) (North China Institute of Aerospace Engineering)
 
 The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
 
