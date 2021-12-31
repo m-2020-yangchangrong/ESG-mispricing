@@ -23,6 +23,29 @@ This study employs several datasets:
 2. CSMAR for Fama-French five factors (e.g., mkt_rf, smb, hml, rmw, cma).
 3. CSMAR for daily stock observations (e.g., price, turnover).
 
+### Stock sample
+
+The file `fivefactor_yearly` contains the Fama-French five factors used in this study, with the following columns:
+- `mkt_rf`: market factor.
+- `smb`: size factor.
+- `hml`: book-to-market ratio factor.
+- `rmw`: profitability factor.
+- `cma`: investment factor.
+- `rf`: risk-free rate.
+
+The file `yearly_indicator` contains the sample of stocks used in this study, with the following columns:
+- `Stkcd`: stock code.
+- `Trdyear`: date.
+- `overnight_return`: overnight return for each stock i of each year t by accumulating corresponding daily overnight return.
+- `size`: market capitalization.
+- `BM`: book-to-market ratio.
+- `ILLIQ`: Amihud (2002) illiquidity.
+- `turnover`: yearly turnover.
+- `ESG_score`: TAQ symbol.
+- `E_score`: TAQ symbol.
+- `S_score`: TAQ symbol.
+- `G_score`: TAQ symbol.
+
 The data is provided in single formats:
 - Comma-separated values (CSV)
 
