@@ -41,10 +41,10 @@ The file `yearly_indicator` contains the sample of stocks used in this study, wi
 - `BM`: book-to-market ratio.
 - `ILLIQ`: Amihud (2002) illiquidity.
 - `turnover`: yearly turnover.
-- `ESG_score`: TAQ symbol.
-- `E_score`: TAQ symbol.
-- `S_score`: TAQ symbol.
-- `G_score`: TAQ symbol.
+- `ESG_score`:  environmental, social, governance score.
+- `E_score`: environmental score.
+- `S_score`: social score.
+- `G_score`: governance score.
 
 The data is provided in single formats:
 - Comma-separated values (CSV)
