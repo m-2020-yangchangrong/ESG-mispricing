@@ -2,7 +2,17 @@
 
 [Xiaoqun Liu](https://github.com/LiuFinance) (Hainan University), [Changrong Yang](https://github.com/m-2020-yangchangrong) (Hainan University), and [Youcong Chao](https://) (North China Institute of Aerospace Engineering)
 
-The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
+`Abstract` : We examine the mispricing of ESG in the Chinese stock market. Our model features the link 
+of investors heterogeneity to the persistence of the overnight and intraday components of returns. The 
+empirical results present that ESG score has a negative effect on the expected stock overnight returns in 
+Fama-MacBeth regression. Consistently, given that the biggest market capitalization and the least 
+illiquidity subsamples, the trading strategies by going long (short) the top (bottom) ESG quintile would 
+yield negative profits. These conclusions parallel Pástor et al. (2021a) who provide evidence of green 
+stocks have lower expected returns because ESG investors value sustainability.
+
+`Keywords`: ESG mispricing; Overnight return; Trading strategy; Fama-MacBeth regression
+
+The latest version of this code can be found at [https://github.com/LiuFinance/ESG_mispricing](https://github.com/LiuFinance/ESG_mispricing).
 
 *Note*: this document is written in Github Flavored Markdown. It can be read by any text editor, but is best viewed with a GFM viewer.
 
@@ -48,4 +58,5 @@ The file `yearly_indicator` contains the sample of stocks used in this study, wi
 
 The data is provided in single formats:
 - Comma-separated values (CSV)
+
 
