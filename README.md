@@ -16,15 +16,32 @@ The latest version of this code can be found at [https://github.com/LiuFinance/E
 
 *Note*: this document is written in Github Flavored Markdown. It can be read by any text editor, but is best viewed with a GFM viewer.
 
+
+
+## Usage
+
+- git clone https://github.com/LiuFinance/ESG_mispricing.git
+- cd ESG_mispricing
+- pip install -r requirements.txt (optional)
+- jupyter notebook
+
 ## Code
 
-All provided code has been tested with 3.9.7 and the packages listed in `requirements.txt`.
+All provided code has been tested with python 3.9.7 and the packages listed in `requirements.txt`.
 
 ### Main analysis
 
-We provide two Jupyter notebooks:
+We provide one Jupyter notebook :
 
 - `Main Analysis.ipynb`: Contains the code to replicate all tables of the paper.
+
+### Utils
+
+We provide some python utils:
+
+- portfolios1D.py for Univariate portfolio 
+- portfolios1D.py for Two-variable portfolio
+- regression_demo.py for regression output format
 
 ## Data
 
@@ -59,4 +76,6 @@ The file `yearly_indicator` contains the sample of stocks used in this study, wi
 The data is provided in single formats:
 - Comma-separated values (CSV)
 
+## Citation
 
+Please cite our paper if you use this repo in your work
