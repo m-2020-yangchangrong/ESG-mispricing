@@ -12,7 +12,7 @@ stocks have lower expected returns because ESG investors value sustainability.
 
 `Keywords`: ESG mispricing; Overnight return; Trading strategy; Fama-MacBeth regression
 
-The latest version of this code can be found at [https://github.com/LiuFinance/ESG_mispricing](https://github.com/LiuFinance/ESG_mispricing).
+The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
 
 *Note*: this document is written in Github Flavored Markdown. It can be read by any text editor, but is best viewed with a GFM viewer.
 
@@ -20,7 +20,7 @@ The latest version of this code can be found at [https://github.com/LiuFinance/E
 
 ## Usage
 
-- git clone https://github.com/LiuFinance/ESG_mispricing.git
+- git clone https://github.com/m-2020-yangchangrong/ESG-mispricing.git
 - cd ESG_mispricing
 - pip install -r requirements.txt (optional)
 - jupyter notebook
@@ -39,9 +39,9 @@ We provide one Jupyter notebook :
 
 We provide some python utils:
 
-- portfolios1D.py for Univariate portfolio 
-- portfolios1D.py for Two-variable portfolio
-- regression_demo.py for regression output format
+- `portfolios1D.py` for Univariate portfolio 
+- `portfolios1D.py` for Two-variable portfolio
+- `regression_demo.py` for regression output format
 
 ## Data
 
