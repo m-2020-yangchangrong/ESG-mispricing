@@ -40,7 +40,7 @@ We provide one Jupyter notebook :
 We provide some python utils:
 
 - `portfolios1D.py` for Univariate portfolio 
-- `portfolios1D.py` for Two-variable portfolio
+- `portfolios2D.py` for Two-variable portfolio
 - `regression_demo.py` for regression output format
 
 ## Data
