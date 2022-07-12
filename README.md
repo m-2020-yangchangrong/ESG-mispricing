@@ -16,7 +16,7 @@ and the empirical results present that the ESG pricing is pervasive of the green
 These conclusions verify the pricing of ESG, and support the conjecture that green stocks 
 have lower expected returns because ESG investors value sustainability.
 
-`Keywords`: ESG pricing; Overnight return; Trading strategy; Fama-MacBeth regression
+`Keywords`: ESG pricing; Overnight return; Trading strategy; Fama-MacBeth regression; Green stock
 
 The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
 
