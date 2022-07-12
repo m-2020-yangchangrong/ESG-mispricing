@@ -1,16 +1,22 @@
-# Code and data for *ESG Mispricing: A View from the Overnight Return*
+# Code and data for *The Pricing of ESG: Evidence from Overnight Return and Intraday Return*
 
-[Xiaoqun Liu](https://github.com/LiuFinance) (Hainan University), [Changrong Yang](https://github.com/m-2020-yangchangrong) (Hainan University), and [Youcong Chao](https://) (North China Institute of Aerospace Engineering)
+[Xiaoqun Liu](https://github.com/LiuFinance) (Hainan University), 
+[Changrong Yang](https://github.com/m-2020-yangchangrong) (Hainan University) and 
+[Youcong Chao](https://) (North China Institute of Aerospace Engineering)
 
-`Abstract` : We examine the mispricing of ESG in the Chinese stock market. Our model features the link 
-of investors heterogeneity to the persistence of the overnight and intraday components of returns. The 
-empirical results present that ESG score has a negative effect on the expected stock overnight returns in 
-Fama-MacBeth regression. Consistently, given that the biggest market capitalization and the least 
-illiquidity subsamples, the trading strategies by going long (short) the top (bottom) ESG quintile would 
-yield negative profits. These conclusions parallel Pástor et al. (2021a) who provide evidence of green 
-stocks have lower expected returns because ESG investors value sustainability.
+`Abstract` : By featuring the link of investor heterogeneity to the persistence of the 
+overnight and intraday components of returns, we examine the ESG-overnight (intraday) 
+alpha relation in the Chinese stock market. The empirical results present that ESG score 
+has a significantly negative effect on the expected stock overnight returns in 
+Fama-MacBeth regression. Consistently, given that the biggest market capitalization and 
+the least illiquidity subsamples, the trading strategies by going long (short) the top (bottom) 
+ESG quintile would yield negative profits. In addition, we conduct the implication of the 
+ESG pricing by dividing the full sample into green stocks subsample and sin stocks subsample, 
+and the empirical results present that the ESG pricing is pervasive of the green-type stocks. 
+These conclusions verify the pricing of ESG, and support the conjecture that green stocks 
+have lower expected returns because ESG investors value sustainability.
 
-`Keywords`: ESG mispricing; Overnight return; Trading strategy; Fama-MacBeth regression
+`Keywords`: ESG pricing; Overnight return; Trading strategy; Fama-MacBeth regression
 
 The latest version of this code can be found at [https://github.com/m-2020-yangchangrong/ESG-mispricing](https://github.com/m-2020-yangchangrong/ESG-mispricing).
 
